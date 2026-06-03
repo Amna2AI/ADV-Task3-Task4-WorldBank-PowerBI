@@ -3,7 +3,7 @@ Interactive and predictive Power BI dashboard using World Bank web data for Adva
 # Global Economic & Development Intelligence Dashboard
 
 ## Project Overview
-This project was developed for the Advanced Data Visualization course. It presents an interactive Power BI dashboard using web-based World Bank data.
+This project was developed for the Advanced Data Visualization course. It presents an interactive Power BI dashboard using web-based World Bank data. The cleaned dataset contains multiple World Bank indicators including GDP, GDP per capita, population, inflation, agriculture contribution, unemployment, and exports for selected countries from 2000 to 2024.
 
 ## Task 3: Interactive Power BI Dashboard
 The dashboard includes:
