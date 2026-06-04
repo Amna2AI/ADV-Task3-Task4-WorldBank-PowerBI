@@ -1,0 +1,85 @@
+Country Code,Country,Region,Indicator Code,Indicator Name,Indicator Short Name,Category,Value Type,Model,MAE,RMSE,R2 Score
+ARE,United Arab Emirates,Middle East,FP.CPI.TOTL.ZG,Inflation Annual %,Inflation,Economy,Percentage,Linear Regression,2.173754016527002,2.9307650689155884,0.10135444430575913
+ARE,United Arab Emirates,Middle East,NE.EXP.GNFS.ZS,Exports of Goods and Services % of GDP,Exports % GDP,Trade,Percentage,Linear Regression,4.547875934696256,5.6351543011570735,0.8873960016480944
+ARE,United Arab Emirates,Middle East,NV.AGR.TOTL.ZS,Agriculture Value Added % of GDP,Agriculture % GDP,Agriculture,Percentage,Linear Regression,0.3054408014770603,0.3459069882046073,0.5802979246578825
+ARE,United Arab Emirates,Middle East,NY.GDP.MKTP.CD,GDP Current US$,GDP,Economy,US Dollars,Linear Regression,32050595331.888897,42102931489.25593,0.9025413351778274
+ARE,United Arab Emirates,Middle East,NY.GDP.PCAP.CD,GDP Per Capita Current US$,GDP per Capita,Economy,US Dollars,Linear Regression,5037.202329962896,6062.1309044231775,0.43093752910158833
+ARE,United Arab Emirates,Middle East,SL.UEM.TOTL.ZS,Unemployment Total %,Unemployment,Labor,Percentage,Linear Regression,0.40047433846153807,0.530171859044854,0.01590796162726582
+ARE,United Arab Emirates,Middle East,SP.POP.TOTL,Total Population,Population,Population,People,Linear Regression,237728.37236923218,274915.97541795945,0.9856020824686388
+BGD,Bangladesh,South Asia,FP.CPI.TOTL.ZG,Inflation Annual %,Inflation,Economy,Percentage,Linear Regression,1.7366047333724492,2.056195938883021,0.1590050312155148
+BGD,Bangladesh,South Asia,NE.EXP.GNFS.ZS,Exports of Goods and Services % of GDP,Exports % GDP,Trade,Percentage,Linear Regression,2.622833256827113,3.0153315297038077,0.028551581973768725
+BGD,Bangladesh,South Asia,NV.AGR.TOTL.ZS,Agriculture Value Added % of GDP,Agriculture % GDP,Agriculture,Percentage,Linear Regression,0.40981841875226016,0.49890335114154605,0.9790732517501392
+BGD,Bangladesh,South Asia,NY.GDP.MKTP.CD,GDP Current US$,GDP,Economy,US Dollars,Linear Regression,37873828023.01737,44143345290.34377,0.9035538430269451
+BGD,Bangladesh,South Asia,NY.GDP.PCAP.CD,GDP Per Capita Current US$,GDP per Capita,Economy,US Dollars,Linear Regression,211.78209121560008,247.53829347870433,0.9071612356958543
+BGD,Bangladesh,South Asia,SL.UEM.TOTL.ZS,Unemployment Total %,Unemployment,Labor,Percentage,Linear Regression,0.39380763076923025,0.5359752278718748,0.12720038384909815
+BGD,Bangladesh,South Asia,SP.POP.TOTL,Total Population,Population,Population,People,Linear Regression,532952.8648615646,668413.8171517529,0.9963164780643771
+CHN,China,East Asia,FP.CPI.TOTL.ZG,Inflation Annual %,Inflation,Economy,Percentage,Linear Regression,1.2675618995280826,1.6773640797382656,0.001772094447928585
+CHN,China,East Asia,NE.EXP.GNFS.ZS,Exports of Goods and Services % of GDP,Exports % GDP,Trade,Percentage,Linear Regression,3.279775145849892,4.393850990620184,0.3322251657315356
+CHN,China,East Asia,NV.AGR.TOTL.ZS,Agriculture Value Added % of GDP,Agriculture % GDP,Agriculture,Percentage,Linear Regression,0.6206674835111166,0.7018784191123203,0.9076535070873933
+CHN,China,East Asia,NY.GDP.MKTP.CD,GDP Current US$,GDP,Economy,US Dollars,Linear Regression,709744389629.47,924163534709.0746,0.9764285676284148
+CHN,China,East Asia,NY.GDP.PCAP.CD,GDP Per Capita Current US$,GDP per Capita,Economy,US Dollars,Linear Regression,476.17392828898323,615.4702088402104,0.9787070716723947
+CHN,China,East Asia,SL.UEM.TOTL.ZS,Unemployment Total %,Unemployment,Labor,Percentage,Linear Regression,0.20028923076923236,0.26556206865381277,0.3716605411911361
+CHN,China,East Asia,SP.POP.TOTL,Total Population,Population,Population,People,Linear Regression,5398708.923076782,7790326.445811254,0.9751192089335211
+IDN,Indonesia,Southeast Asia,FP.CPI.TOTL.ZG,Inflation Annual %,Inflation,Economy,Percentage,Linear Regression,1.8154973703581678,2.2640805023186146,0.4933416922728491
+IDN,Indonesia,Southeast Asia,NE.EXP.GNFS.ZS,Exports of Goods and Services % of GDP,Exports % GDP,Trade,Percentage,Linear Regression,2.476576845544453,3.0089305634485406,0.7611844171645334
+IDN,Indonesia,Southeast Asia,NV.AGR.TOTL.ZS,Agriculture Value Added % of GDP,Agriculture % GDP,Agriculture,Percentage,Linear Regression,0.5046859360722666,0.6713339967493781,0.6177081415622742
+IDN,Indonesia,Southeast Asia,NY.GDP.MKTP.CD,GDP Current US$,GDP,Economy,US Dollars,Linear Regression,57514289933.70659,75272225784.01376,0.9638491559847623
+IDN,Indonesia,Southeast Asia,NY.GDP.PCAP.CD,GDP Per Capita Current US$,GDP per Capita,Economy,US Dollars,Linear Regression,237.93083190762766,328.18235654406925,0.9419584971306298
+IDN,Indonesia,Southeast Asia,SL.UEM.TOTL.ZS,Unemployment Total %,Unemployment,Labor,Percentage,Linear Regression,0.6049680615384654,0.7838114777851231,0.7366103999683575
+IDN,Indonesia,Southeast Asia,SP.POP.TOTL,Total Population,Population,Population,People,Linear Regression,954811.8911998367,1138627.5574147194,0.9970026915485146
+IND,India,South Asia,FP.CPI.TOTL.ZG,Inflation Annual %,Inflation,Economy,Percentage,Linear Regression,1.9991163418529754,2.4366912810954657,0.0019930160226379057
+IND,India,South Asia,NE.EXP.GNFS.ZS,Exports of Goods and Services % of GDP,Exports % GDP,Trade,Percentage,Linear Regression,2.5921379119742136,2.977235901313097,0.24545810267890744
+IND,India,South Asia,NV.AGR.TOTL.ZS,Agriculture Value Added % of GDP,Agriculture % GDP,Agriculture,Percentage,Linear Regression,0.9235602878074279,1.1408646935146967,0.4397791167948917
+IND,India,South Asia,NY.GDP.MKTP.CD,GDP Current US$,GDP,Economy,US Dollars,Linear Regression,115313730212.45528,147743380718.48148,0.9791087793451098
+IND,India,South Asia,NY.GDP.PCAP.CD,GDP Per Capita Current US$,GDP per Capita,Economy,US Dollars,Linear Regression,70.59414845441356,89.97254050459671,0.9820218681023012
+IND,India,South Asia,SL.UEM.TOTL.ZS,Unemployment Total %,Unemployment,Labor,Percentage,Linear Regression,0.6393081230769253,0.830667493581105,0.4026495816412776
+IND,India,South Asia,SP.POP.TOTL,Total Population,Population,Population,People,Linear Regression,6806080.66486084,8017503.952193813,0.9954949268701145
+KOR,"Korea, Rep.",East Asia,FP.CPI.TOTL.ZG,Inflation Annual %,Inflation,Economy,Percentage,Linear Regression,0.9454158520164725,1.185407485941336,0.08676755963820537
+KOR,"Korea, Rep.",East Asia,NE.EXP.GNFS.ZS,Exports of Goods and Services % of GDP,Exports % GDP,Trade,Percentage,Linear Regression,4.678450148636833,5.669897766755782,0.2019650150263722
+KOR,"Korea, Rep.",East Asia,NV.AGR.TOTL.ZS,Agriculture Value Added % of GDP,Agriculture % GDP,Agriculture,Percentage,Linear Regression,0.17103696431326923,0.22809998563181386,0.8602407159284433
+KOR,"Korea, Rep.",East Asia,NY.GDP.MKTP.CD,GDP Current US$,GDP,Economy,US Dollars,Linear Regression,77619380073.29536,93874572578.21982,0.9526597860192644
+KOR,"Korea, Rep.",East Asia,NY.GDP.PCAP.CD,GDP Per Capita Current US$,GDP per Capita,Economy,US Dollars,Linear Regression,1569.2220463881833,1895.9352780130253,0.9423146109470802
+KOR,"Korea, Rep.",East Asia,SL.UEM.TOTL.ZS,Unemployment Total %,Unemployment,Labor,Percentage,Linear Regression,0.32592781538461524,0.37620999205640027,0.023072974509579014
+KOR,"Korea, Rep.",East Asia,SP.POP.TOTL,Total Population,Population,Population,People,Linear Regression,260679.94990769387,318731.92712504213,0.9606399798427484
+LKA,Sri Lanka,South Asia,FP.CPI.TOTL.ZG,Inflation Annual %,Inflation,Economy,Percentage,Linear Regression,6.072689151518035,9.58495625583891,0.004751269969158978
+LKA,Sri Lanka,South Asia,NE.EXP.GNFS.ZS,Exports of Goods and Services % of GDP,Exports % GDP,Trade,Percentage,Linear Regression,2.575779123847814,3.039758449230722,0.8247597952885254
+LKA,Sri Lanka,South Asia,NV.AGR.TOTL.ZS,Agriculture Value Added % of GDP,Agriculture % GDP,Agriculture,Percentage,Linear Regression,1.7010006300832874,2.037025322147092,0.6677661882662183
+LKA,Sri Lanka,South Asia,NY.GDP.MKTP.CD,GDP Current US$,GDP,Economy,US Dollars,Linear Regression,9360824848.144886,10725490167.676561,0.8691412171734498
+LKA,Sri Lanka,South Asia,NY.GDP.PCAP.CD,GDP Per Capita Current US$,GDP per Capita,Economy,US Dollars,Linear Regression,467.5881203023622,537.6804364562844,0.8393672165867234
+LKA,Sri Lanka,South Asia,SL.UEM.TOTL.ZS,Unemployment Total %,Unemployment,Labor,Percentage,Linear Regression,0.829631999999997,0.947405298112853,0.6395506672130155
+LKA,Sri Lanka,South Asia,SP.POP.TOTL,Total Population,Population,Population,People,Linear Regression,165570.35907692194,198635.29406527872,0.940733778801835
+MYS,Malaysia,Southeast Asia,FP.CPI.TOTL.ZG,Inflation Annual %,Inflation,Economy,Percentage,Linear Regression,0.953311200494451,1.275158299390679,0.0009474935569061538
+MYS,Malaysia,Southeast Asia,NE.EXP.GNFS.ZS,Exports of Goods and Services % of GDP,Exports % GDP,Trade,Percentage,Linear Regression,6.735091062124654,7.52930842780352,0.8409651245723637
+MYS,Malaysia,Southeast Asia,NV.AGR.TOTL.ZS,Agriculture Value Added % of GDP,Agriculture % GDP,Agriculture,Percentage,Linear Regression,0.6841797368447032,0.8766996466653186,0.0888343679639434
+MYS,Malaysia,Southeast Asia,NY.GDP.MKTP.CD,GDP Current US$,GDP,Economy,US Dollars,Linear Regression,20712313803.68832,25455543831.885708,0.9425630742048908
+MYS,Malaysia,Southeast Asia,NY.GDP.PCAP.CD,GDP Per Capita Current US$,GDP per Capita,Economy,US Dollars,Linear Regression,834.1016332093827,1013.1875256418577,0.8558933771002317
+MYS,Malaysia,Southeast Asia,SL.UEM.TOTL.ZS,Unemployment Total %,Unemployment,Labor,Percentage,Linear Regression,0.2998518153846155,0.3777673670802825,0.18605160610762816
+MYS,Malaysia,Southeast Asia,SP.POP.TOTL,Total Population,Population,Population,People,Linear Regression,131851.05076924324,153160.32679432887,0.9984029292680705
+NPL,Nepal,South Asia,FP.CPI.TOTL.ZG,Inflation Annual %,Inflation,Economy,Percentage,Linear Regression,2.3467058987975458,2.6366864575623867,0.03269319539735638
+NPL,Nepal,South Asia,NE.EXP.GNFS.ZS,Exports of Goods and Services % of GDP,Exports % GDP,Trade,Percentage,Linear Regression,1.5485204340462937,2.0816907959372566,0.8091382270672223
+NPL,Nepal,South Asia,NV.AGR.TOTL.ZS,Agriculture Value Added % of GDP,Agriculture % GDP,Agriculture,Percentage,Linear Regression,0.8992726854564733,1.1788679946034217,0.9523756100075522
+NPL,Nepal,South Asia,NY.GDP.MKTP.CD,GDP Current US$,GDP,Economy,US Dollars,Linear Regression,1797910361.4557614,2085076527.9077382,0.9713048661644436
+NPL,Nepal,South Asia,NY.GDP.PCAP.CD,GDP Per Capita Current US$,GDP per Capita,Economy,US Dollars,Linear Regression,55.7689822296264,67.0941585726832,0.9730252031646154
+NPL,Nepal,South Asia,SL.UEM.TOTL.ZS,Unemployment Total %,Unemployment,Labor,Percentage,Linear Regression,0.29859956923076836,0.5385321161196494,0.10386915874187508
+NPL,Nepal,South Asia,SP.POP.TOTL,Total Population,Population,Population,People,Linear Regression,245889.030400002,283877.0233957995,0.9602558838465939
+PAK,Pakistan,South Asia,FP.CPI.TOTL.ZG,Inflation Annual %,Inflation,Economy,Percentage,Linear Regression,4.194348640498237,5.73549308264213,0.19399187272348672
+PAK,Pakistan,South Asia,NE.EXP.GNFS.ZS,Exports of Goods and Services % of GDP,Exports % GDP,Trade,Percentage,Linear Regression,1.0652188878408986,1.2376501748016304,0.2517012906691336
+PAK,Pakistan,South Asia,NV.AGR.TOTL.ZS,Agriculture Value Added % of GDP,Agriculture % GDP,Agriculture,Percentage,Linear Regression,1.0346945277603634,1.2822579616340637,0.0001566052754554681
+PAK,Pakistan,South Asia,NY.GDP.MKTP.CD,GDP Current US$,GDP,Economy,US Dollars,Linear Regression,15430278077.729195,19530528656.26234,0.9552763817611946
+PAK,Pakistan,South Asia,NY.GDP.PCAP.CD,GDP Per Capita Current US$,GDP per Capita,Economy,US Dollars,Linear Regression,84.12065558412877,104.17177543366992,0.8871774418047265
+PAK,Pakistan,South Asia,SL.UEM.TOTL.ZS,Unemployment Total %,Unemployment,Labor,Percentage,Linear Regression,0.7357777230769246,0.8877948913503021,0.8156868950639765
+PAK,Pakistan,South Asia,SP.POP.TOTL,Total Population,Population,Population,People,Linear Regression,1417833.2055382156,1637573.2412139138,0.9967706056399349
+SAU,Saudi Arabia,Middle East,FP.CPI.TOTL.ZG,Inflation Annual %,Inflation,Economy,Percentage,Linear Regression,1.7975465044279233,2.4671294646246635,0.013694547678656965
+SAU,Saudi Arabia,Middle East,NE.EXP.GNFS.ZS,Exports of Goods and Services % of GDP,Exports % GDP,Trade,Percentage,Linear Regression,7.159299132032557,8.4399889831415,0.4378519770159426
+SAU,Saudi Arabia,Middle East,NV.AGR.TOTL.ZS,Agriculture Value Added % of GDP,Agriculture % GDP,Agriculture,Percentage,Linear Regression,0.5529554796807221,0.6442777464593702,0.5065565764040632
+SAU,Saudi Arabia,Middle East,NY.GDP.MKTP.CD,GDP Current US$,GDP,Economy,US Dollars,Linear Regression,67652339577.82529,85023180258.62689,0.9306222075338053
+SAU,Saudi Arabia,Middle East,NY.GDP.PCAP.CD,GDP Per Capita Current US$,GDP per Capita,Economy,US Dollars,Linear Regression,2434.0198702314815,3113.9969132758856,0.8494809709271955
+SAU,Saudi Arabia,Middle East,SL.UEM.TOTL.ZS,Unemployment Total %,Unemployment,Labor,Percentage,Linear Regression,0.5102802461538463,0.7896904201209287,0.003046682426777081
+SAU,Saudi Arabia,Middle East,SP.POP.TOTL,Total Population,Population,Population,People,Linear Regression,680653.9814154244,878350.4400869666,0.9745101453813704
+TUR,Turkiye,Europe / Middle East,FP.CPI.TOTL.ZG,Inflation Annual %,Inflation,Economy,Percentage,Linear Regression,16.921297962280892,20.164409602658466,0.013080339116974815
+TUR,Turkiye,Europe / Middle East,NE.EXP.GNFS.ZS,Exports of Goods and Services % of GDP,Exports % GDP,Trade,Percentage,Linear Regression,2.483388085408256,3.0438375271183506,0.5295688929244269
+TUR,Turkiye,Europe / Middle East,NV.AGR.TOTL.ZS,Agriculture Value Added % of GDP,Agriculture % GDP,Agriculture,Percentage,Linear Regression,0.5497611366390609,0.6088807120495962,0.7965585002621725
+TUR,Turkiye,Europe / Middle East,NY.GDP.MKTP.CD,GDP Current US$,GDP,Economy,US Dollars,Linear Regression,117936154210.85164,137789792025.19183,0.7506184212954182
+TUR,Turkiye,Europe / Middle East,NY.GDP.PCAP.CD,GDP Per Capita Current US$,GDP per Capita,Economy,US Dollars,Linear Regression,1696.3992592717561,1944.3905152445434,0.6091025348364774
+TUR,Turkiye,Europe / Middle East,SL.UEM.TOTL.ZS,Unemployment Total %,Unemployment,Labor,Percentage,Linear Regression,1.1249975384615418,1.512678029619097,0.08830431840837405
+TUR,Turkiye,Europe / Middle East,SP.POP.TOTL,Total Population,Population,Population,People,Linear Regression,446636.2180922985,518460.26570050116,0.9936438873754748
